@@ -1,1 +1,1 @@
-My first readme
+README for update script
